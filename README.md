@@ -1,7 +1,7 @@
 # worldamovies
 
 Movie Watchlist App
-The Movie Watchlist App is a simple web application that allows users to search and view movie information from the Movie Database API and save their watchlist for later reference. Users can input their email address and retrieve their watchlist text associated with their email. If the email does not exist in the database, the app will create a new entry with a default text saying "There's nothing."
+The Movie Watchlist App is a simple web application that allows users to search and view movie information from the Movie Database API and save their watchlist for later reference. Users can input their email address and retrieve their watchlist text associated with their email. If the email does not exist in the database, the app will create a new entry.
 
 Features
 View a list of popular movies fetched from the Movie Database API.
