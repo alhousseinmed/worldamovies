@@ -19,4 +19,4 @@ Fetch API: To make asynchronous requests to the backend server.
 Movie Database API: To fetch movie data for display.
 
 
-<img width="1440" alt="Screenshot 2023-07-27 at 5 31 37 PM" src="https://github.com/alhousseinmed/worldamovies/assets/84826294/547d78e3-5fd5-4397-9ff7-b52c1f14e880">
+<img width="1413" alt="Screenshot 2023-08-07 at 4 30 19 PM" src="https://github.com/alhousseinmed/worldamovies/assets/84826294/b382b6cb-d0ef-41b3-81e6-35ad204feb05">
